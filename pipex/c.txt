@@ -1,0 +1,3 @@
+total 144
+-rwxr-xr-x  1 dgarizad  2022_malaga  49976 Feb  2 20:24 a.out
+-r-x------  1 dgarizad  2022
